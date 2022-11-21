@@ -1,0 +1,8 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Simon's Site"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

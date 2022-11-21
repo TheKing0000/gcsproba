@@ -1,0 +1,20 @@
+hugo new site ./
+
+hugo new contact/index.md
+
+
+index.html == _index.md
+
+{{/*
+      <div class="text-center">
+        <h1>{{ .Site.Title}}</h1>
+        {{if .Params.subtitle}}
+        <h2>{{ .Params.subtitle }}</h2>
+        {{end}}
+      </div>
+      */}}
+
+      {{/* {{ .Content }} */}}
+
+
+offset-1 col-10
