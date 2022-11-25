@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: "en-us"
-title: "Simon's Site"
+title: "GCS"
 
 markup:
   goldmark:
